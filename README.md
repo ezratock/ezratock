@@ -1,9 +1,9 @@
 ### Hello, I'm Ezra Tock! 👋
 
-- 🔭 I’m currently working on Java projects from CSC172.
-- 🌱 I’m currently learning data structures and algorithms in Java.
-- 🤔 I’m looking for help with collaborating on large projects.
-- 💬 Ask me about: Dance! Music! 
-- 📫 How to reach me: Email - etock@u.Rochester.edu
-- 😄 Pronouns: He/Him
-- ❓ Fun fact: I can solve a rubiks cube in <30 seconds
+- 🔭 I’m currently working on: accelerating ray tracing with machine learning.
+- 🌱 I’m currently learning: C++.
+- 🤔 I’m looking for: a job.
+- 💬 Ask me about: The competitive dancing I did for 12 years.
+- 📫 How to reach me: Email - etock@u.Rochester.edu.
+- 😄 Pronouns: He/Him.
+- ❓ Fun fact: I can solve a Rubik's Cube in under 30 seconds.

@@ -1,4 +1,4 @@
-## Hi, I'm Ezra Tock
+## Hi, my name is Ezra.
 
 I love to dance, listen to music, and go on hikes.
 
